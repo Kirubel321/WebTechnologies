@@ -1,4 +1,3 @@
-# WebTechnologies
 
 # What is HTML?
 
